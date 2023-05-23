@@ -1,0 +1,1 @@
+將test_images and train_images解壓縮放data目錄這裡 ex:../data/train_images、../data/test_images
