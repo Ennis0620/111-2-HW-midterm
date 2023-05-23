@@ -35,7 +35,7 @@ class dataset(Dataset):
         print('3:',len(tmp[3]))
         print('4:',len(tmp[4]))
         print('5:',len(tmp[5]))
-
+ 
         train_index = np.array([])
         valid_index = np.array([])
         split_ratio = 0.15
